@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Minesweeper</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { color: #111; }
+        h2 { color: #222; margin-top: 24px; }
+        a { color: #0366d6; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Minesweeper</h1>
+    <p><strong>Last updated:</strong> October 2026</p>
+
+    <p>This Privacy Policy describes how Minesweeper ("we", "our", or "the Game") collects, uses, and discloses information when you use our mobile application.</p>
+
+    <h2>1. Information Collection and Storage</h2>
+    <p>Game progress, high scores, and settings are stored locally on your device. We do not directly collect, store, or share your personal information (such as your name, phone number, address, or contacts).</p>
+
+    <h2>2. In-App Purchases (Google Play Billing)</h2>
+    <p>Our game may offer virtual items, currencies, or premium features via in-app purchases. All financial transactions are processed securely through Google Play Billing. We do not collect, process, or store your credit card or financial information. All purchase transactions are subject to Google Play's Terms of Service and Privacy Policy.</p>
+
+    <h2>3. Advertising and Third-Party Services</h2>
+    <p>The game may display advertisements provided by third-party ad networks (such as Google AdMob). These third-party services may collect and use information, such as your device's Advertising ID (GAID), IP address, and general device information, to provide personalized or non-personalized ads.</p>
+    <p>Links to privacy policies of third-party service providers used by the app:</p>
+    <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank">Google Play Services</a></li>
+        <li><a href="https://support.google.com/admob/answer/6128543" target="_blank">Google AdMob</a></li>
+    </ul>
+
+    <h2>4. Children’s Privacy</h2>
+    <p>Our Game does not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian and know that your child has provided personal information, please contact us so we can take necessary actions.</p>
+
+    <h2>5. Security</h2>
+    <p>We value your trust in using our Game and are committed to protecting any data associated with your gameplay.</p>
+
+    <h2>6. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.</p>
+
+    <h2>7. Contact Us</h2>
+    <p>If you have any questions or feedback regarding this Privacy Policy, please contact us at:<br>
+    <strong>Email:</strong> createease.studio@gmail.com</p>
+</body>
+</html>
